@@ -8,6 +8,10 @@ Task 4 @ Elevvo ML Internship
 4. Train and evaluate multi-class classification models.
 5. Visualize confusion matrix and feature importance.
 
+### Bonus:
+1. Compare different models (e.g., Random Forest vs. XGBoost).
+2. Perform hyperparameter tuning.
+
 ## Dataset
 - [Forest Cover Type](https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset)
 
