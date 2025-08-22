@@ -17,3 +17,10 @@ Task 4 @ Elevvo ML Internship
 
 ## Notebook
 - [Forest Cover Type Classification](https://github.com/Asma-Nasr/Forest-Cover-Type-Classification/blob/main/forest_cover_type.ipynb)
+
+## Performance Comparison
+
+| Models          | Accuracy   | ROC Score  |
+|-----------------|------------|------------|
+| Decision Tree   | 93.278984  | 0.935220   |
+| Random Forest   | 95.646113  | 0.997438   |
