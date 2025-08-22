@@ -16,4 +16,4 @@ Task 4 @ Elevvo ML Internship
 - [Forest Cover Type](https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset)
 
 ## Notebook
-- [Forest Cover Type Classification]()
+- [Forest Cover Type Classification](https://github.com/Asma-Nasr/Forest-Cover-Type-Classification/blob/main/forest_cover_type.ipynb)
